@@ -5,8 +5,12 @@ Repository of sample terraform code currently experimenting with.
 
 Common commands (todo - detailed explanations)
 
-* terraform validate
 * terraform init
+* terraform validate
 * terraform plan 
 * terraform apply
 * terraform destroy
+
+Setup
+
+(TO-DO aws configure details)

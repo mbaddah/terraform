@@ -1,2 +1,3 @@
-# terraform
-Terraform sample code
+# Terraform sample repo
+
+Repository of sample terraform code currently experimenting with.
